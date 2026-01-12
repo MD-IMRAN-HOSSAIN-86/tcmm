@@ -1,0 +1,5 @@
+{
+  "name": "Tasmis Cottage Meal Management",
+  "description": "A bachelor hostel meal tracking system with member management, real-time stats, and 11 PM deadline logic for tomorrow's meal updates.",
+  "requestFramePermissions": []
+}
